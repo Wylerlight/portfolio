@@ -127,3 +127,30 @@
   padding: 10px;
   font-size: 20px;
 }
+
+@media screen and (max-width: 600px) {
+  .form {
+    width: 90%;
+    padding: 20px 20px;
+  }
+  .form__title {
+    font-size: 20px;
+  }
+  .form__names-wrapper {
+    flex-direction: column;
+  }
+  .form__p {
+    font-size: 15px;
+  }
+  .form__input {
+    padding: 5px 5px;
+  }
+  .form__submit-active {
+    padding: 5px;
+    font-size: 15px;
+  }
+  .form__submit-inactive {
+    padding: 5px;
+    font-size: 15px;
+  }
+}

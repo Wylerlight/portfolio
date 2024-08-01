@@ -23,7 +23,7 @@ const projectData = [
     name: 'Portfolio',
     photo: portfolio,
     website: '/',
-    github: '',
+    github: 'https://github.com/Wylerlight/portfolio',
     description:
       'Personal protfolio website to showcase my projects, skills, and briefly describe who I am as a person.',
   },
